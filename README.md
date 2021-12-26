@@ -19,7 +19,8 @@ THEN the saved events persist
 ![Landing Page](./assets/images/LandingPage.png)
 
 ## Usage 
-
+Type any event for any of the time blocks for the current day. 
+When the save button is clicked this will save to browser local storage. 
 
 ## Installation
 Project was uploaded to [Github](https://github.com/) at the following repository: https://github.com/patty345/Work-Day_Scheduler 
@@ -27,3 +28,4 @@ Project was uploaded to [Github](https://github.com/) at the following repositor
 You can find the deployed application in the Github pages link: https://patty345.github.io/Work-Day_Scheduler/
 
 ## Output 
+The output of this challege was to work with Third-party api's. 
