@@ -15,3 +15,15 @@ THEN the text for that event is saved in local storage
 THEN the saved events persist
 
 ## Landing Page
+
+![Landing Page](./assets/images/LandingPage.png)
+
+## Usage 
+
+
+## Installation
+Project was uploaded to [Github](https://github.com/) at the following repository: https://github.com/patty345/Work-Day_Scheduler 
+
+You can find the deployed application in the Github pages link: https://patty345.github.io/Work-Day_Scheduler/
+
+## Output 
